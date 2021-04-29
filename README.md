@@ -11,4 +11,4 @@ You can view my biography, my headshot, links to my work, my resume, and my cont
 
 Image:
 
-
+![professional-portfolio-image](https://user-images.githubusercontent.com/77308736/116571839-71782180-a8d9-11eb-8a33-af1fe805ac53.PNG)
